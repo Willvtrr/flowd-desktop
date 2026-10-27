@@ -1,0 +1,11 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "v0.2.105",
+  "assets": [
+    {
+      "name": "flowd-capturas-0.2.105-source.zip",
+      "browser_download_url": "https://github.com/Willvtrr/flowd-desktop/releases/download/v0.2.105/flowd-capturas-0.2.105-source.zip"
+    }
+  ]
+}
